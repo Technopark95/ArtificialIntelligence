@@ -95,6 +95,7 @@ def chatty():
     print("Hi, I'm Chatty and I chat alot ;)\nPlease type lowercase English language to start a conversation. Type quit to leave ") #default message at the start
     
     while(1):
+        print("Press any key to continue")
         sys.stdin.read(1)
         chat = Chat(pairs, reflections)
         texted = ""
