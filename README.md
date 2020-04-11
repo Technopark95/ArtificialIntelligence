@@ -4,7 +4,7 @@ AI Project
 ## Libraries Required
 
 ### chatterbot
-### chatterbo-corpus
+### chatterbot-corpus
 ### pyaudio
 ### sklearn
 ### numpy
