@@ -1,11 +1,11 @@
 # Artificial Intelligence
 AI Project
 
-##Libraries Required
+## Libraries Required
 
-###chatterbot
-###chatterbo-corpus
-###pyaudio
-###sklearn
-###numpy
-###speech_recognition
+### chatterbot
+### chatterbo-corpus
+### pyaudio
+### sklearn
+### numpy
+### speech_recognition
